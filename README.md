@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on .NetCore
-- 🌱 I’m currently learning anything I need to know progress myself
+- 🌱 I’m currently learning anything I need to know to progress myself
 - 📫 How to reach me: [Telegram](https://t.me/) or [Email](mailto:amineghbalian1@gmail.com)
